@@ -5,6 +5,8 @@ You can now use I/O Doctor as a hosted application via [iodoctor.net](http://www
 
 I/O Doctor is a GUI for creating and editing JSON config files that are used with [I/O Docs](https://github.com/mashery/iodocs), an interactive API documentation system from [Mashery](http://www.mashery.com).
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Description
 -----------
 ### How It Works
