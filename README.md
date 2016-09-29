@@ -30,4 +30,4 @@ TODO
 * Ability to edit JSON directly on output tab - GUI v Source view
 * Ability to copy a node
 * Add Parameter buttons both above and below the list of parameters
-* Default the paramater data type to be custom: string
+* Default the parameter data type to be custom: string
