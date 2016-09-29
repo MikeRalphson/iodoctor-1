@@ -1,0 +1,6 @@
+{
+  "name": "IO Doctor (Ruby)",
+  "description": "UI to edit IO Docs specs",
+  "repository": "https://github.com/mikeralphson/iodoctor-ruby",
+  "keywords": ["iodocs"]
+}
