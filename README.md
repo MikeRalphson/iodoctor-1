@@ -15,6 +15,10 @@ Select an existing I/O Docs config to upload, or create a new config and start a
 
 Click an item from the menu on the left to begin editing. View the JSON output at any time by hitting the "output" tab. When finished, click "Save File" to download the JSON file. I/O Doctor does not store any data. Make sure you save your JSON output.
 
+### Background
+
+Original [blog post](http://bwe.st/api/2012/07/03/iodoctor---a-gui-for-managing-io-docs-configuration-files.html)
+
 ### Technology
 
 I/O Doctor is built on [Sinatra](http://www.sinatrarb.com), Twitter Bootstrap 2.0, and jQuery, and uses [form2js](https://github.com/maxatwork/form2js) for structured, hierarchical HTML form data. 
